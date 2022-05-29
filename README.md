@@ -61,7 +61,9 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 </a>
 </p>
 </details>
-
+<a href="https://www.heroku.com/deploy?template=https://github.com/DianaBarry/Diana-.git">
+    <img src="https://www.herokucdn.com/deploy/button.svg">
+ </a>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
