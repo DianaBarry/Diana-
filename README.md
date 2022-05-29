@@ -49,10 +49,9 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
 
-## Deploy
-You can deploy this bot anywhere.
+## Deploy to heroku
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
+
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -66,7 +65,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/DianaBarry/Diana-.git
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
